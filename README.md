@@ -1,6 +1,6 @@
 # 📊 **AI Finance Agent: Analyst Recommendations & Financial News Fetcher**
 
-![Placeholder for AI Agent Image](#)
+![AI Agent Image]()
 
 ## 🚀 **Introduction**
 
@@ -91,7 +91,7 @@ The system employs a modular architecture with distinct roles for each agent:
 - **Yahoo Finance API:** Real-time stock and financial data.  
 - **Google Search API:** Fetch credible news updates.
 
-### ✅ **Deployment Options**
+### ✅ **Deployment**
 - **Local Server (Python HTTP Server)**  
 - **Cloud Hosting (Optional):**  
    - **GitHub Pages**  
@@ -130,9 +130,11 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## Credits
 
-- **Phidata Team:** For the framework and comprehensive documentation. [Phidata Documentation]((https://docs.phidata.com/introduction))
+- **Phidata Team:** For the framework and comprehensive documentation. [Phidata Documentation](https://docs.phidata.com/introduction)
+- **Groq AI Models:** For superfast inference processing. [Groqcloud](https://console.groq.com/playground)
+- **YFinanceTools:** For reliable financial data APIs.
 
 ## Contact
 
