@@ -4,7 +4,7 @@
 
 ## 🚀 **Introduction**
 
-This project implements an **AI Finance Agent** designed to fetch **analyst recommendations** and deliver **up-to-date financial news** from trusted sources. By leveraging **Groq's AI models**, **YFinanceTools**, and **GoogleSearch**, this application serves as a powerful tool for financial analysis and information retrieval.
+This project implements an **AI Finance Agent** designed to fetch **analyst recommendations** and deliver **up-to-date financial news** from trusted sources. By leveraging **Groq's AI models**, **YFinanceTools**, and **GoogleSearch**, this application serves as a powerful tool for financial analysis and information retrieval. Could be used for any stocks data.
 
 The system is modular, robust, and built to streamline financial data extraction, ensuring accurate insights and reliable updates.
 
@@ -17,9 +17,6 @@ The system is modular, robust, and built to streamline financial data extraction
 - [🏗️ Architecture](#-architecture)  
 - [🛠️ Tools and Technologies](#-tools-and-technologies)  
 - [📦 Installation](#-installation)  
-- [🚀 Usage](#-usage)  
-- [🎨 Customization](#-customization)  
-- [🤝 Contributing](#-contributing)  
 - [📝 License](#-license)  
 - [🙌 Credits](#-credits)  
 - [📲 Contact](#-contact)  
