@@ -1,6 +1,6 @@
 # 📊 **AI Finance Agent: Analyst Recommendations & Financial News Fetcher**
 
-![AI Agent Image]()
+![AI Agent Image](https://github.com/itsritzz/AI_Finance_agent/blob/main/Images/Autonomous-AI-Agents-for-Finance.png)
 
 ## 🚀 **Introduction**
 
