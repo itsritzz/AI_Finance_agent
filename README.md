@@ -4,7 +4,7 @@
 
 ## 🚀 **Introduction**
 
-This project implements an **AI Finance Agent** designed to fetch **analyst recommendations** and deliver **up-to-date financial news** from trusted sources. By leveraging **Groq's AI models**, **YFinanceTools**, and **GoogleSearch**, this application serves as a powerful tool for financial analysis and information retrieval. Could be used for any stocks data.
+This project implements an **AI Finance Agent** designed to fetch **analyst recommendations** and deliver **up-to-date financial news** using [Phidata Framework](https://docs.phidata.com/introduction). By leveraging **Groq's AI models**, **YFinanceTools**, and **GoogleSearch**, this application serves as a powerful tool for financial analysis and information retrieval. Could be used for any stocks data.
 
 The system is modular, robust, and built to streamline financial data extraction, ensuring accurate insights and reliable updates.
 
@@ -70,8 +70,7 @@ The system employs a modular architecture with distinct roles for each agent:
 - **Python:** Used for scripting, data handling, and agent orchestration.
 
 ### ✅ **Frameworks and Libraries**
-- **Phi:** Framework for creating AI agents and workflows.  
-- **Dotenv:** Secure management of environment variables.
+- **Phidata:** Framework for creating AI agents and workflows.  
 
 ### ✅ **AI Models**
 - **Groq LLaMA3 (70B):** Language model for generating insights and responses.
