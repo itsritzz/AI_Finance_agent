@@ -2,7 +2,7 @@
 
 ![AI Agent Image](https://github.com/itsritzz/AI_Finance_agent/blob/main/Images/Autonomous-AI-Agents-for-Finance.png)
 
-## 🚀 **Introduction**
+## **Introduction**
 
 This project implements an **AI Finance Agent** designed to fetch **analyst recommendations** and deliver **up-to-date financial news** using [Phidata Framework](https://docs.phidata.com/introduction). By leveraging **Groq's AI models**, **YFinanceTools**, and **GoogleSearch**, this application serves as a powerful tool for financial analysis and information retrieval. Could be used for any stocks data.
 
@@ -10,20 +10,20 @@ The system is modular, robust, and built to streamline financial data extraction
 
 ---
 
-## 📚 **Table of Contents**
+## **Table of Contents**
 
-- [🚀 Introduction](#-introduction)  
-- [🛠️ Features](#--features)  
-- [🏗️ Architecture](#architecture)  
-- [🛠️ Tools and Technologies](#-tools-and-technologies)  
-- [📦 Installation](#-installation)  
-- [📝 License](#-license)  
-- [🙌 Credits](#-credits)  
-- [📲 Contact](#-contact)  
+- [Introduction](#introduction)  
+- [Features](#features)  
+- [Architecture](#architecture)  
+- [Tools and Technologies](#tools-and-technologies)  
+- [Installation](#installation)  
+- [License](#license)  
+- [Credits](#credits)  
+- [Contact](#contact)  
 
 ---
 
-## 🛠️ **Features**
+## **Features**
 
 - ✅ **Web Data Retrieval:** Fetch real-time financial updates using `GoogleSearch`.  
 - ✅ **Analyst Recommendations:** Retrieve key analyst insights via `YFinanceTools`.  
@@ -33,7 +33,7 @@ The system is modular, robust, and built to streamline financial data extraction
 
 ---
 
-## 🏗️ **Architecture**
+## **Architecture**
 
 The system employs a modular architecture with distinct roles for each agent:
 
@@ -64,7 +64,7 @@ The system employs a modular architecture with distinct roles for each agent:
     ├── Delivers consolidated summaries ```plaintext
 ```
 
-## 🛠️ **Tools and Technologies**
+## **Tools and Technologies**
 
 ### ✅ **Programming Language**
 - **Python:** Used for scripting, data handling, and agent orchestration.
@@ -94,7 +94,7 @@ The system employs a modular architecture with distinct roles for each agent:
    - **Vercel**  
    - **Netlify**  
 
-## 📦 **Installation**
+## **Installation**
 
 ### **1️⃣ Clone the Repository**
 ```bash
