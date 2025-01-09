@@ -13,8 +13,8 @@ The system is modular, robust, and built to streamline financial data extraction
 ## 📚 **Table of Contents**
 
 - [🚀 Introduction](#-introduction)  
-- [🛠️ Features](#-features)  
-- [🏗️ Architecture](#-architecture)  
+- [🛠️ Features](#--features)  
+- [🏗️ Architecture](#architecture)  
 - [🛠️ Tools and Technologies](#-tools-and-technologies)  
 - [📦 Installation](#-installation)  
 - [📝 License](#-license)  
@@ -118,21 +118,17 @@ Create a .env file in the root folder:
 GROQ_API_KEY=your_groq_api_key
 ```
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
-
-## License
+## **License**
 
 This project is licensed under the MIT License.
 
-## Credits
+## **Credits**
 
 - **Phidata Team:** For the framework and comprehensive documentation. [Phidata Documentation](https://docs.phidata.com/introduction)
 - **Groq AI Models:** For superfast inference processing. [Groqcloud](https://console.groq.com/playground)
 - **YFinanceTools:** For reliable financial data APIs.
 
-## Contact
+## **Contact**
 
 - **Author:** Ritesh Kumar Singh
 - **Portfolio:** [itsritz.my.canva.site](https://itsritz.my.canva.site)
